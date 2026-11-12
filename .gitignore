@@ -1,0 +1,24 @@
+# Kredensial & data sesi — JANGAN pernah di-commit
+data/ig-accounts.json
+data/ig-follows.json
+data/ig-likes.json
+data/ig-saves.json
+data/ig-progress.json
+data/*.json
+cookies*.json
+*storage*.json
+*store*.json
+*.env
+*.pw
+*.jks
+*.keystore
+credentials*
+vncpass.txt
+*.log
+
+# Profil browser & sampah runtime
+profile/
+profile-*/
+*.user-data
+__pycache__/
+*.pyc
